@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=giimacedo&langs_count=4&theme=radical)"
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=giimacedo&langs_count=4&theme=radical)
 <br/>
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=giimacedo&theme=radical)
 </div>
