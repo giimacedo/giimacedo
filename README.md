@@ -2,7 +2,7 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=giimacedo&langs_count=4&theme=radical)
 <br/>
 ![GitHub stats](https://github-stats-extended.vercel.app/api?username=giimacedo&theme=radical)
-</div>
+![GitHub_stats](https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false)
 
 <!--
 **giimacedo/giimacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
