@@ -31,7 +31,7 @@ Desenvolvedora Frontend || Construindo projetos e desenvolvendo minhas habilidad
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=giimacedo&background=FAF4D4&ring=122444&fire=122444&currStreakLabel=122444&sideLabels=122444&currStreakNum=122444&sideNums=122444&dates=122444&stroke=122444"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=giimacedo&background=FAF4D4&ring=122444&fire=122444&currStreakLabel=122444&sideLabels=122444&currStreakNum=122444&sideNums=122444&dates=122444&stroke=2300"
   alt="Github Streak Stats"
       />
     </td>
