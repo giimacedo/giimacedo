@@ -1,20 +1,28 @@
 ## Hi there 👋
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=giimacedo&langs_count=4&theme=radical)
-<br/>
-![GitHub stats](https://github-stats-extended.vercel.app/api?username=giimacedo&theme=radical)
-![GitHub_stats](https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false)
 
-<!--
-**giimacedo/giimacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=giimacedo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giimacedo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=giimacedo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
