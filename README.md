@@ -14,6 +14,7 @@ Desenvolvedora Frontend || Construindo projetos e desenvolvendo minhas habilidad
 <table>
   <tr>
     <td>
+      <div style="display: flex; align-items: flex-start; gap: 10px;">
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=faf4d4&cache_seconds=2300"
@@ -35,5 +36,6 @@ Desenvolvedora Frontend || Construindo projetos e desenvolvendo minhas habilidad
   alt="Github Streak Stats"
       />
     </td>
+      </div>
   </tr>
 </table>
