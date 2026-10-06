@@ -16,14 +16,14 @@ Desenvolvedora Frontend || Construindo projetos e desenvolvendo minhas habilidad
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=ffefdd&cache_seconds=2300"
+        src="https://github-readme-stats.vercel.app/api?username=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=faf4d4&cache_seconds=2300"
   alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=ffefdd&cache_seconds=2300"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=faf4d4&cache_seconds=2300"
   alt="Github Stats"
       />
     </td>
@@ -31,8 +31,8 @@ Desenvolvedora Frontend || Construindo projetos e desenvolvendo minhas habilidad
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=giimacedo&show_icons=true&title_color=122444&text_color=122444&icon_color=122444&bg_color=ffefdd&cache_seconds=2300"
-  alt="Github Stats"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=giimacedo&background=FAF4D4&ring=122444&fire=122444&currStreakLabel=122444&sideLabels=122444&currStreakNum=122444&sideNums=122444&dates=122444&stroke=122444"
+  alt="Github Streak Stats"
       />
     </td>
   </tr>
